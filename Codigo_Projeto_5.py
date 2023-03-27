@@ -23,8 +23,6 @@ for element in sorted(coordinates.keys()):
     for coord in coordinates[element]:
         print(f'{coord}')
 
-freq = {}
-
 values = [0, 1, 2, 4]
 
 for i in values:
