@@ -1,8 +1,8 @@
 # ![image](https://user-images.githubusercontent.com/102388580/228085808-0217a9aa-2fac-4ff7-8f41-e6b553c4d053.png)
 
 
-                                                 Engenharia de Software - 3º Período A
-                                                              PROJETO 05
+                                             Engenharia de Software - 3º Período A
+                                                           PROJETO 05
  Professor responsável: Ms. Márcio Alexandre Dias Garrido 
 
 * Julia Reis Rodrigues - 202212049
@@ -15,8 +15,8 @@
 
 * Raphael Cardim Calvet - 202210809
 
-                                                                 TRABALHO - 5
-                                                                  Descrição   
+                                                              TRABALHO - 5
+                                                                Descrição   
                                                                  
 *  Tendo em vista o cojunto de elementos abaixo, crie um algoritimo que seja capaz de determinar a posição de cada elemento e printar suas coordenadas de forma ascendente os valores. Apresentar também o somatório de TODOS ELEMENTOS POR SIMILARIDADE.
   
