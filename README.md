@@ -64,3 +64,7 @@ E, por final, mostramos a quantidade de vezes que o valor apareceu nas coordenad
 
 ![image](https://user-images.githubusercontent.com/102388580/228085509-511b57d3-29d1-4f0f-975e-3f2fd9ff561a.png)
 
+Abaixo, seguimos com o gráfico da notação Big'O
+
+![image](https://user-images.githubusercontent.com/102388580/228097156-914744e4-bf94-4158-87a9-47af2ca39884.png)
+
